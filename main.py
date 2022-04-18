@@ -1,4 +1,4 @@
-import csv
+
 from mail import Email
 import os
 
